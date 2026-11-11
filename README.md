@@ -2,13 +2,27 @@
 
 # 👋 Hi, I'm Babacar Faye
 
-### AI Engineer | Backend Engineer | Software Developer
+### AI Engineer · Backend Engineer · Full Stack Developer
 
-**Building intelligent applications, agentic AI systems and scalable backend architectures.**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Software+Solutions;Exploring+Agentic+AI+%26+GraphRAG;Java+%7C+Spring+Boot+%7C+Generative+AI;From+Ideas+to+Scalable+Products" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-BabacarFaye3203-181717?style=for-the-badge&logo=github)](https://github.com/BabacarFaye3203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b-faye/)
-[![Location](https://img.shields.io/badge/Location-Morocco-16A34A?style=for-the-badge)](https://github.com/BabacarFaye3203)
+<br/>
+
+<a href="https://github.com/BabacarFaye3203">
+  <img src="https://komarev.com/ghpvc/?username=BabacarFaye3203&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://github.com/BabacarFaye3203?tab=followers">
+  <img src="https://img.shields.io/github/followers/BabacarFaye3203?style=for-the-badge&logo=github&color=161B22&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+<a href="https://sencomply.com">
+  <img src="https://img.shields.io/badge/Founder-SenComply-16A34A?style=for-the-badge" alt="SenComply"/>
+</a>
+
+<br/><br/>
+
+[LinkedIn](https://www.linkedin.com/in/b-faye/) · [Portfolio & Projects](https://github.com/BabacarFaye3203?tab=repositories) · [SenComply](https://sencomply.com) · [Email](mailto:bf322003@gmail.com)
 
 </div>
 
@@ -16,246 +30,261 @@
 
 ## 🧑‍💻 About Me
 
-I'm a software developer and AI enthusiast currently pursuing a Master's degree in **Artificial Intelligence & Digital Computing (AIDC)** at Université Sultan Moulay Slimane, Morocco.
+I'm a software engineer passionate about building intelligent, scalable and impactful digital products.
 
-My interests lie at the intersection of **Artificial Intelligence, Backend Engineering, Data Science and Distributed Systems**.
+Currently completing a **Master's degree in Artificial Intelligence & Digital Computing** at Université Sultan Moulay Slimane, I combine software engineering expertise with a strong interest in AI engineering.
 
-I enjoy designing robust software architectures, developing intelligent AI-powered applications, and integrating advanced AI capabilities into real-world business solutions.
+My work focuses on bridging the gap between **backend engineering and artificial intelligence** — from robust Java applications to LLM-powered systems and autonomous AI agents.
 
-- 🎓 Master's student in Artificial Intelligence & Digital Computing.
-- 🤖 Interested in Agentic AI, RAG, GraphRAG and LLM-powered applications.
-- 🧠 Exploring Machine Learning, Deep Learning and Computer Vision.
-- 💻 Backend development with Java, Spring Boot and Spring AI.
-- 🏗️ Interested in Clean Architecture, DDD and Microservices.
-- ☁️ Cloud, DevOps and distributed systems engineering.
-- 🚀 Founder & CEO of SenComply.
+- 🚀 Full Stack Engineer at **SenComply**, building a SaaS platform for business digitalization and tax compliance.
+- 🧠 Former Software Engineer Intern at **Zenika**, working on Java, Cloud, DevOps and RAG-based AI solutions.
+- ☕ Experienced in **Java, Spring Boot, REST APIs, microservices and software architecture**.
+- 🤖 Exploring **Generative AI, Agentic AI, RAG, GraphRAG and AI agents**.
+- 📊 Interested in Machine Learning, Deep Learning, Computer Vision and Data Science.
+- 🌍 Based in Morocco, with a strong interest in building technology for Africa and beyond.
+
+> *I enjoy turning complex problems into practical, reliable and intelligent software solutions.*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql,bash" alt="Programming languages"/>
+</p>
+
+### ⚙️ Backend & Software Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,hibernate,postgres,mongodb,redis" alt="Backend technologies"/>
+</p>
+
+**Core concepts:** REST APIs · Microservices · Clean Architecture · Hexagonal Architecture · Domain-Driven Design · OAuth2 · JWT · Keycloak · JPA · Liquibase · TDD
+
+### 🤖 Artificial Intelligence & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI and machine learning technologies"/>
+</p>
+
+**AI Engineering:** Generative AI · LLMs · Prompt Engineering · RAG · Agentic RAG · GraphRAG · AI Agents · MCP · Vector Databases · LangChain · LangGraph · Spring AI · Ollama
+
+**Machine Learning:** Scikit-learn · Classification · Regression · Model Evaluation · Feature Engineering · Deep Learning · Computer Vision · NLP
+
+**Data:** NumPy · Pandas · Data Analysis · Data Visualization · ETL · Apache Spark · MLflow
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,aws,gcp,linux,postman" alt="Cloud and DevOps tools"/>
+</p>
+
+**Cloud & Infrastructure:** Google Cloud Platform · Cloud Run · Cloud Storage · Artifact Registry · AWS S3 · Docker · CI/CD
+
+**Developer Tools:** Git · GitHub Actions · Postman · IntelliJ IDEA · VS Code · Linux
+
+### 🗄️ Databases & Knowledge Graphs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,neo4j" alt="Databases"/>
+</p>
+
+PostgreSQL · MySQL · MongoDB · Redis · Neo4j · Vector Databases · SQL · NoSQL
 
 ---
 
 ## 💼 Professional Experience
 
-### Zenika — Software Engineer Intern
+### 🚀 SenComply — Full Stack Engineer
+**February 2026 – Present | Dakar, Senegal**
 
-*Casablanca, Morocco | June 2026 – September 2026*
+Building SenComply, a SaaS platform designed to simplify business management and financial operations.
 
-- Contributed to the development of a lead marketplace and an AI-powered Discovery Coach.
-- Worked on API design, data modeling and business logic implementation.
-- Explored RAG, LLMs, vector databases and AI scoring systems.
-- Worked with Spring Boot, Spring AI, Apache Kafka and hexagonal architecture.
-- Applied Domain-Driven Design (DDD), Event Storming and bounded contexts.
-- Contributed to cloud-native development and CI/CD workflows.
+- Developing features for business digitalization and financial management.
+- Building invoicing, purchasing and payment management workflows.
+- Contributing to automated financial processes and tax compliance.
+- Developing secure, scalable and maintainable application features.
+- Exploring AI-powered capabilities for business assistance.
 
-**Technologies:** Java, Spring Boot, Spring AI, RAG, LLMs, PostgreSQL, Apache Kafka, Docker, Google Cloud Run, Cloud Storage, GitHub Actions.
+**Technologies:** Java · Spring Boot · Spring AI · React · PostgreSQL · Google Cloud · Docker
 
-### SenComply — Founder & CEO
+🌐 [Website](https://sencomply.com) · [Platform](https://app.sencomply.com)
 
-*January 2026 – Present*
+### 🧠 Zenika — Software Engineer Full Stack (Java, DevOps & AI)
+**June 2026 – August 2026 | Morocco**
 
-Designing and leading the development of a B2B SaaS platform dedicated to tax compliance and financial operations for businesses and accounting firms in Senegal.
+Contributed to a client project for the French market within a team of six engineers.
 
-- Building a multi-tenant SaaS platform for tax compliance and business management.
-- Developing invoicing, purchases and financial document management features.
-- Integrating payment workflows with Wave and Orange Money.
-- Exploring multimodal AI assistance through text and voice interactions.
-- Designing secure cloud-native backend architecture.
+- Participated in Event Storming, DDD workshops, Bounded Context identification and C4 architecture modeling.
+- Designed backend services with Spring Boot and Clean Architecture.
+- Implemented CI/CD pipelines using GitHub Actions.
+- Containerized applications with Docker.
+- Supported deployments across Development, Staging and Production environments on Google Cloud.
+- Worked with Cloud Run, Cloud Storage, Artifact Registry, Firestore, Load Balancing and IAM.
+- Contributed to AI-driven scoring solutions using RAG architectures and vector databases.
+- Collaborated with frontend developers to integrate APIs and deliver features.
 
-**Technologies:** Java, Spring Boot, Spring AI, PostgreSQL, React, Google Cloud, Docker.
+**Technologies:** Java · Spring Boot · Spring AI · RAG · Vector Databases · Kafka · Docker · GitHub Actions · GCP · PostgreSQL
 
-🌐 [SenComply Platform](https://app.sencomply.com) · [Website](https://sencomply.com)
+### 💻 CodingArt — Backend Java/Spring Boot Developer
+**October 2025 – December 2025 | Part-time**
 
-### Backend Java Developer — CodingArt / Vendiiko
+Continued backend development contributions to business software solutions.
 
-*July 2025 – January 2026*
+- Developed backend features using Spring Boot and Spring Data JPA.
+- Worked on REST APIs, authentication and database persistence.
+- Contributed to the evolution of existing application modules.
 
-- Designed and developed backend microservices using Spring Boot.
-- Implemented authentication and authorization using JWT, OAuth2 and Keycloak.
-- Managed PostgreSQL databases and schema migrations with Liquibase.
-- Integrated AWS S3 for file storage.
-- Implemented automated tests using JUnit, Mockito and MockMvc.
-- Collaborated in Agile development environments.
+**Technologies:** Java · Spring Boot · Spring Security · PostgreSQL
 
-**Technologies:** Java, Spring Boot, Spring Security, Angular, PostgreSQL, Keycloak, Liquibase, AWS, Docker.
+### 💻 CodingArt — Backend Java/Spring Boot Developer
+**July 2025 – October 2025 | Contract**
 
----
+- Developed backend modules using Spring Boot, Spring Data JPA and Spring Security.
+- Designed secure REST APIs with JWT authentication and authorization.
+- Managed database migrations using Liquibase.
+- Integrated AWS services, including S3.
+- Worked with microservices architecture.
+- Implemented unit and integration tests using JUnit and Mockito.
 
-## ⚡ Technical Skills
+**Technologies:** Java · Spring Boot · Spring Cloud · JWT · PostgreSQL · Liquibase · AWS · JUnit · Mockito
 
-### Programming Languages
+### 🌐 CodingArt — Full Stack Java/Angular Developer Intern
+**April 2025 – July 2025 | Agadir, Morocco**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- Developed backend modules and REST APIs using Spring Boot.
+- Integrated Angular frontend components with backend services.
+- Implemented JWT authentication, Angular Guards and Interceptors.
+- Worked with OAuth2, OpenID Connect and Keycloak.
+- Integrated Google reCAPTCHA and AWS S3.
+- Contributed to testing and application security.
 
-### Backend & Software Architecture
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square)
-![DDD](https://img.shields.io/badge/DDD-7C3AED?style=flat-square)
-
-### Artificial Intelligence & Agentic Systems
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-9333EA?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
-![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-6D28D9?style=flat-square)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-0E7490?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-
-### Machine Learning, Deep Learning & Computer Vision
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Data Science & Data Engineering
-
-![Data Science](https://img.shields.io/badge/Data_Science-0F766E?style=flat-square)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_ELT-2563EB?style=flat-square)
-
-### Databases & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-### Frontend Development
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Technologies:** Java · Spring Boot · Angular · TypeScript · PostgreSQL · Keycloak · AWS · Liquibase
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 SenComply — AI-Powered Tax Compliance SaaS
+### 01 — Moroccan Regulatory Assistant
+**Agentic AI · RAG · OCR · Web Search**
 
-A B2B SaaS platform designed to simplify tax compliance, invoicing and financial operations for businesses and accounting firms in Senegal.
+An intelligent assistant designed to help users retrieve and understand Moroccan regulatory information.
 
-- Tax compliance and VAT management.
-- Invoicing, purchases and supplier management.
-- Multi-tenant SaaS architecture.
-- Mobile Money payment integration.
-- AI-powered assistance and intelligent document workflows.
+- Agentic architecture for orchestrating specialized tasks.
+- Retrieval-Augmented Generation for regulatory knowledge retrieval.
+- OCR service for extracting information from documents.
+- Web search integration through SearXNG.
+- Docker-based infrastructure and service orchestration.
 
-**Technologies:** Java, Spring Boot, Spring AI, PostgreSQL, React, Google Cloud, Docker.
+**Stack:** Python · RAG · LLMs · OCR · FastAPI · Docker · SearXNG
 
-🌐 [Visit SenComply](https://app.sencomply.com)
+[View Repository](https://github.com/BabacarFaye3203/moroccan-regulatory-assistant)
 
-### 🇲🇦 Moroccan Regulatory Assistant — Agentic AI
+### 02 — SenComply
+**SaaS · Full Stack · FinTech · AI**
 
-An intelligent regulatory assistant designed to help users explore and understand Moroccan regulations through AI-powered retrieval and agentic workflows.
+A business management and tax compliance platform designed for Senegalese SMEs and accounting professionals.
 
-- Retrieval-Augmented Generation (RAG).
-- Agentic AI and LLM orchestration.
-- Document ingestion and OCR infrastructure.
-- Web search integration.
-- Modular services and Docker-based infrastructure.
+- Business operations and invoicing management.
+- Financial workflows and payment tracking.
+- Multi-tenant backend architecture.
+- AI-assisted business support.
 
-**Technologies:** Python, LLMs, RAG, AI Agents, OCR, Docker, SearXNG.
+**Stack:** Java · Spring Boot · Spring AI · React · PostgreSQL · Google Cloud
 
-[Explore Repository](https://github.com/BabacarFaye3203/moroccan-regulatory-assistant)
+[Website](https://sencomply.com) · [Application](https://app.sencomply.com)
 
-### 🤖 MCP Employee Bookstore Agent
+### 03 — MCP Employee Bookstore Agent
+**AI Agents · Model Context Protocol**
 
-An intelligent MCP server enabling AI agents to interact with business databases and enterprise tools.
+An AI-powered employee bookstore assistant integrating language models with external tools and data sources.
 
-- MCP server and tool integration.
-- PostgreSQL and MongoDB connectivity.
-- LangChain agent integration.
-- Local LLM execution using Ollama.
-- Workflow orchestration with n8n.
-- Distributed API architecture.
+- Tool-based AI interactions using MCP.
+- Backend services and database integration.
+- LLM orchestration and automation workflows.
 
-**Technologies:** Python, FastAPI, LangChain, MCP, Ollama, PostgreSQL, MongoDB, SQLAlchemy, Docker, n8n.
+**Stack:** Python · FastAPI · LangChain · MCP · Ollama · PostgreSQL · MongoDB · Docker · n8n
 
-### 🧠 Personal AI Assistant
+[Explore My Repositories](https://github.com/BabacarFaye3203?tab=repositories)
 
-A personal AI assistant connected to Telegram for real-time interaction and professional profile-based assistance.
+### 04 — Personal AI Assistant
+**Java · Spring AI · MCP · Local LLM**
 
-- Telegram integration.
-- Local LLM execution with LLaMA 3.2.
-- MCP-based orchestration.
-- Layered backend architecture.
+An AI assistant built around Java and Spring AI, using local language models and MCP-based tool orchestration.
 
-**Technologies:** Java 21, Spring Boot, Spring AI, Spring Data JPA, Ollama, MCP.
+- Integration with LLaMA 3.2 through Ollama.
+- MCP-based tool orchestration.
+- Telegram interaction.
+- Backend architecture with Spring Boot.
 
-### 🍌 Banana Food Quality Classification — ML & IoT
+**Stack:** Java 21 · Spring Boot · Spring AI · Ollama · MCP · Telegram
 
-A Machine Learning and IoT project focused on banana quality classification using sensor data and predictive models.
+[Explore My Repositories](https://github.com/BabacarFaye3203?tab=repositories)
 
-- Random Forest and Gradient Boosting models.
-- ESP32 sensor integration.
-- MLflow experiment tracking and model registry.
-- FastAPI prediction service.
-- Docker containerization.
+### 05 — Banana Food Quality Classification
+**Machine Learning · IoT · MLOps**
 
-**Technologies:** Python, Scikit-learn, MLflow, FastAPI, ESP32, Docker.
+A machine learning solution for banana quality classification using sensor data.
 
-[View Repository](https://github.com/BabacarFaye3203/banana-food-quality-ml)
+- Data preprocessing and feature engineering.
+- Random Forest and Gradient Boosting model experimentation.
+- MLflow experiment tracking and model registration.
+- FastAPI prediction service and Docker deployment.
+- Integration concept with ESP32 sensor data.
 
-### 👁️ Image Captioning — CNN, LSTM & Attention
+**Stack:** Python · Scikit-learn · Pandas · MLflow · FastAPI · Docker · ESP32
 
-An image captioning project exploring deep learning architectures for generating natural language descriptions from images.
+[Explore My Repositories](https://github.com/BabacarFaye3203?tab=repositories)
 
-**Technologies:** Python, Deep Learning, CNN, LSTM, Attention, Computer Vision.
+### 06 — Image Captioning with CNN-LSTM Attention
+**Deep Learning · Computer Vision · NLP**
 
-### 🩺 Medical Chatbot using BERT
+An image captioning project combining visual feature extraction and sequence generation.
 
-A medical chatbot built using BERT embeddings and semantic search to retrieve relevant information.
+- CNN-based image feature extraction.
+- LSTM-based caption generation.
+- Attention mechanism to improve visual context understanding.
 
-**Technologies:** Python, BERT, NLP, FAISS, Semantic Search.
+**Stack:** Python · Deep Learning · CNN · LSTM · Attention
 
-### 🔐 Spring Security Demo
+### 07 — Medical Chatbot
+**NLP · Semantic Search**
 
-A practical implementation of authentication, authorization and application security using the Spring ecosystem.
+A medical question-answering prototype using semantic representations and vector similarity search.
 
-**Technologies:** Java, Spring Boot, Spring Security.
+- BERT-based text embeddings.
+- FAISS vector indexing and similarity search.
+- Semantic retrieval for question answering.
 
-[View Repository](https://github.com/BabacarFaye3203/Spring-Security-Demo)
+**Stack:** Python · BERT · NLP · FAISS
+
+### 08 — Prompt Engineering & LLM Evaluation
+**Generative AI · Prompt Engineering**
+
+Experiments with prompt design and LLM-based text classification.
+
+- Zero-shot and few-shot prompting.
+- IMDb sentiment classification.
+- Evaluation and comparison of prompt strategies.
+- Local and API-based language model experimentation.
+
+**Stack:** Python · LangChain · Ollama · LLMs · Prompt Engineering
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BabacarFaye3203&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabacarFaye3203&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BabacarFaye3203&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&include_all_commits=true&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabacarFaye3203&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=BabacarFaye3203&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
+<div align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=BabacarFaye3203&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
 </div>
 
 ---
@@ -263,47 +292,78 @@ A practical implementation of authentication, authorization and application secu
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabacarFaye3203&theme=github-compact&hide_border=true" width="100%" alt="Contribution Graph"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BabacarFaye3203&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 </div>
 
 ---
 
 ## 🎯 Current Learning & Engineering Focus
 
-- Advanced RAG and Agentic RAG architectures.
-- GraphRAG and Knowledge Graph-enhanced retrieval.
-- Neo4j and graph database modeling.
-- Autonomous AI agents and multi-agent systems.
-- Model Context Protocol (MCP).
-- Spring AI and enterprise AI integration.
-- Deep Learning and Computer Vision applications.
-- Machine Learning and Data Science.
-- Distributed systems and Apache Kafka.
-- Cloud-native applications and software architecture.
+I'm continuously improving my skills in software engineering and applied artificial intelligence.
+
+| Area | Current Focus |
+|---|---|
+| 🤖 Agentic AI | Multi-agent systems, tool calling, MCP |
+| 🔎 Advanced RAG | Agentic RAG, GraphRAG, Knowledge Graphs |
+| 🧠 Generative AI | LLM integration, evaluation, orchestration |
+| ☕ Backend Engineering | Java, Spring Boot, Clean Architecture |
+| 📊 Machine Learning | Model evaluation, Deep Learning, Computer Vision |
+| ☁️ Cloud & DevOps | GCP, Docker, CI/CD, scalable deployments |
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Continuous Learning
 
-- Java & Spring Boot — OpenClassrooms.
-- Spring Security, Spring Data, Microservices, Docker & Angular — OpenClassrooms.
-- Python Programming — Alison.
-- Neo4j Fundamentals & Cypher Fundamentals — Neo4j.
+- Java and Spring ecosystem — OpenClassrooms
+- Spring Boot, Spring Security and Spring Data — OpenClassrooms
+- Microservices, Docker and Angular — OpenClassrooms
+- Python Programming — Alison
+- Neo4j Fundamentals — Neo4j
+- Cypher Fundamentals — Neo4j
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Leadership & Community
 
-I'm always interested in discussing software engineering, artificial intelligence, agentic systems, data science, backend architecture and innovative projects.
+**Executive Regional Secretary-General — UGESM**
+
+*October 2023 – October 2025 | Morocco*
+
+- Represented Senegalese students before regional administrations.
+- Coordinated executive activities and institutional communication.
+- Managed administrative and financial responsibilities.
+- Represented Senegalese students in a wider Sub-Saharan student organization.
+
+---
+
+## 📬 Let's Connect
+
+I'm open to opportunities and collaborations in:
+
+- AI Engineering & Generative AI
+- Backend Engineering & Java Development
+- Machine Learning & Data Science
+- Cloud Engineering & Software Architecture
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabacarFaye3203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-faye/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bf322003@gmail.com)
+<a href="https://www.linkedin.com/in/b-faye/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:bf322003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/BabacarFaye3203">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://sencomply.com">
+  <img src="https://img.shields.io/badge/SenComply-Visit-16A34A?style=for-the-badge" alt="SenComply"/>
+</a>
 
-**Thanks for visiting my profile! 🚀**
+<br/><br/>
+
+### 💡 "Building intelligent systems. Engineering meaningful impact."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=120&section=footer" width="100%" alt="Footer animation"/>
 
 </div>
